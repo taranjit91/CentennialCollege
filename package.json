@@ -11,5 +11,13 @@
     "NodeJs"
   ],
   "author": "Taranjit Kaur",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taranjit91/CentennialCollege.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taranjit91/CentennialCollege/issues"
+  },
+  "homepage": "https://github.com/taranjit91/CentennialCollege#readme"
 }
